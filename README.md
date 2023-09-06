@@ -1,5 +1,5 @@
 # SCRATCH_ML
-People from non ML background , demystifying chatGpt
+People from non ML background , **demystifying chatGpt** We will go step by step learning fundamentals and abstracting them into blackbox components to hopefully build a giant AI model 
 
 
 
